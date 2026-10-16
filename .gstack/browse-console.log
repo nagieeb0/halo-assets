@@ -1,0 +1,43 @@
+[2026-10-16T16:38:08.047Z] [error] Failed to load resource: the server responded with a status of 999 ()
+[2026-10-16T16:38:10.045Z] [warning] [.WebGL-0xfb400f7aa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-10-16T16:38:10.074Z] [warning] [.WebGL-0xfb400f78600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-10-16T16:38:10.075Z] [warning] Element with id: dust-var-locale not found
+[2026-10-16T16:38:10.223Z] [warning] [.WebGL-0xfb400f81000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-10-16T16:38:10.416Z] [warning] [.WebGL-0xfb403ab5a00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[2026-10-16T16:38:11.182Z] [warning] [GSI_LOGGER]: Your client application may not display the Google One Tap in its default position. When FedCM becomes mandatory, One Tap only displays in the default position. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#layout
+[2026-10-16T16:38:11.182Z] [warning] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment
+[2026-10-16T16:38:11.182Z] [warning] [GSI_LOGGER]: Currently, you disable FedCM on Google One Tap. FedCM for One Tap will become mandatory starting Oct 2024, and you won’t be able to disable it. Refer to the migration guide to update your code accordingly to ensure users will not be blocked from logging in. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration
+[2026-10-16T16:38:11.189Z] [warning] [GSI_LOGGER]: Currently, you disable FedCM on Google One Tap. FedCM for One Tap will become mandatory starting Oct 2024, and you won’t be able to disable it. Refer to the migration guide to update your code accordingly to ensure users will not be blocked from logging in. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration
+[2026-10-16T16:38:11.242Z] [debug] TMS load event sent successfully: 
+[2026-10-16T16:38:11.884Z] [error] Access to XMLHttpRequest at 'https://ps.azurewaf.microsoft.com/event?correlationId=31fc82a4-ea50-469c-89a3-83eaaf565d96&type=ping' from origin 'https://www.linkedin.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2026-10-16T16:38:11.885Z] [error] Failed to load resource: net::ERR_FAILED
+[2026-10-16T16:38:12.432Z] [endGroup] EvalError
+    at mJ (https://client.protechts.net/PXdOjV695v/main.min.js:2:73320)
+    at oO (https://client.protechts.net/PXdOjV695v/main.min.js:2:81336)
+    at Je (https://client.protechts.net/PXdOjV695v/main.min.js:2:240045)
+    at Jb (https://client.protechts.net/PXdOjV695v/main.min.js:2:239615)
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:241848
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:241854
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:242319
+[2026-10-16T16:38:15.298Z] [error] requestStorageAccess: Permission denied.
+[2026-10-16T16:38:26.716Z] [error] Access to XMLHttpRequest at 'https://ps.azurewaf.microsoft.com/event?correlationId=31fc82a4-ea50-469c-89a3-83eaaf565d96&type=data' from origin 'https://www.linkedin.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2026-10-16T16:38:26.716Z] [error] Failed to load resource: net::ERR_FAILED
+[2026-10-16T16:38:57.471Z] [warning] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.
+[2026-10-16T16:38:57.471Z] [warning] Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.
+[2026-10-16T16:38:57.471Z] [warning] Error with Permissions-Policy header: Unrecognized feature: 'shared-storage'.
+[2026-10-16T16:38:57.471Z] [warning] Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.
+[2026-10-16T16:39:08.558Z] [verbose] Rendering was performed in a subtree hidden by content-visibility.
+[2026-10-16T16:39:10.069Z] [log] 
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;
+[2026-10-16T16:39:10.069Z] [log] 
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; 
+[2026-10-16T16:39:10.069Z] [log] 
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; 
+[2026-10-16T16:39:10.069Z] [log] 
+%c 
+[2026-10-16T16:39:10.708Z] [error] ErrorUtils caught an error:
+
+Error connecting to Credential Management service.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {column: 180, clientTime: 1792168750, extra: Object, guardList: Array(0), hash: 51wout}
+[2026-10-16T16:39:17.422Z] [warning] No available adapters.
